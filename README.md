@@ -1,3 +1,12 @@
+# Names:
+ - Dennis Nduto - SC211/0466/2022
+ - Maina Mwangi - SC211/0506/2022
+ - Isaac Mwangi - SC211/0509/2022
+ - Kelvin Githinji - SC211/2267/2020
+ - William Kariuki - SC211/0542/2022
+ - Jane Ndung'u - SC211/0522/2022
+ - Collins Cheserem - SC211/0475/2022
+
 # Heart Disease Prediction — SVM Classifier
 
 A machine learning solution to predict the presence of heart disease using a **Support Vector Machine (SVM)** on the UCI Cleveland Heart Disease dataset.
